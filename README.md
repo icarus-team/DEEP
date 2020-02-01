@@ -5,7 +5,7 @@
 For more information please follow the link [here](https://www.aicrowd.com/challenges/amld-2020-transfer-learning-for-international-crisis-response).
 
 ### Resources
-The data consists of 4 sets, belonging to 4 organizations (org1 to org4), and each comes with a development set (orgX_dev), and a test set (orgX_test).
+The [data](https://www.aicrowd.com/challenges/amld-2020-transfer-learning-for-international-crisis-response/dataset_files) consists of 4 sets, belonging to 4 organizations (org1 to org4), and each comes with a development set (orgX_dev), and a test set (orgX_test).
 
 The development sets contain the following fields:
 
@@ -89,3 +89,13 @@ Sectors for the fourth organization:
 
 (112) WASH
 ```
+
+### Repository Structure
+
+`utils.py` : Text preprocessing methods
+
+`starter.ipynb` : Basic starter code. Highest mean of accuracies achieved : 53.2%
+
+`ORG4.ipynb` : Exploration of ORG4 data.
+
+ 
