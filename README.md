@@ -100,4 +100,4 @@ Sectors for the fourth organization:
 
 ### Presentation
 
-Find the presentation [here]().
+Find the presentation [here](https://github.com/icarus-team/DEEP/blob/master/AMLD_presentation.pdf).
