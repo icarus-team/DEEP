@@ -36,9 +36,10 @@ Humanitarian response is organised in thematic clusters. Clusters are groups of 
 
 Sectors for the first, second, and third organization:
 
+```python
 (1) Agriculture
 
-(2) Cross: short form of Cross-sectoral; areas of humanitarian response that require action in more than one sector. For example malnutrition requires humanitarian interventions in health, access to food, access to basic hygiene items and clean water, and access to non-food items such as bottles to feed infants.
+(2) Cross
 
 (3) Education
 
@@ -48,9 +49,9 @@ Sectors for the first, second, and third organization:
 
 (6) Livelihood: Access to employment and income
 
-(7) Logistics: Any logistical support needed to carry out humanitarian activities e.g. air transport, satellite phone connection etc.
+(7) Logistics
 
-(8) NFI: Non-food items needed in daily life that are not food such as bedding, mattrassess, jerrycans, coal or oil for heating
+(8) NFI
 
 (9) Nutrition
 
@@ -59,9 +60,11 @@ Sectors for the first, second, and third organization:
 (11) Shelter
 
 (12) WASH (Water, Sanitation and Hygiene)
+```
 
 Sectors for the fourth organization:
 
+```python
 (101) Child Protection
 
 (102) Early Recovery and Livelihoods
@@ -85,3 +88,4 @@ Sectors for the fourth organization:
 (111) Shelter and NFIs
 
 (112) WASH
+```
